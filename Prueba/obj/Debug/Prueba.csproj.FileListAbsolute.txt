@@ -9,3 +9,14 @@ C:\Users\melan\source\repos\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInp
 C:\Users\melan\source\repos\Prueba\Prueba\obj\Debug\Prueba.exe
 C:\Users\melan\source\repos\Prueba\Prueba\obj\Debug\Prueba.pdb
 C:\Users\melan\source\repos\Prueba\Prueba\obj\Debug\Prueba.Form2.resources
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\Prueba\bin\Debug\Prueba.exe
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\Prueba\bin\Debug\Prueba.pdb
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\Prueba\obj\Debug\Prueba.Form1.resources
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\Prueba\obj\Debug\Prueba.Form2.resources
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\Prueba\obj\Debug\Prueba.exe
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\Prueba\obj\Debug\Prueba.pdb

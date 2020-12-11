@@ -1,0 +1,5 @@
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\TO2\obj\Debug\TO2.csproj.CoreCompileInputs.cache
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\TO2\bin\Debug\TO2.dll
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\TO2\bin\Debug\TO2.pdb
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\TO2\obj\Debug\TO2.dll
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\TO2\obj\Debug\TO2.pdb

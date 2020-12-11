@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R2iAMs4Ed6h9LjyClSBFH2RNs2rgGL6bVcIoVc2fKzRutjnZwkhcRgcNz9rREOESnvx9QWb2JcpugMhA4k2DUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\melan\\Dropbox\\Mi PC (DESKTOP-8O5NSLT)\\Documents\\GitHub\\Pruebita\\TO\\TO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\melan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\melan\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

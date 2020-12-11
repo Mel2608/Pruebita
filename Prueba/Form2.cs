@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 using System.Data.SqlClient;
+using BL2;
+using TO2;
 
 namespace Prueba
 {
@@ -36,27 +38,35 @@ namespace Prueba
             String oficio = txtOficio.Text;
             String estadoCivil = comboCivil.SelectedItem + "";
 
-            
-            SqlConnection conexion = new SqlConnection("Data Source = .; Initial Catalog = PRUEBA; Integrated Security = True");
-            string cadena = "insert into PERSONA (ID_PERSONA,NOMBRE,APELLIDOS,FECHA_NACIMIENTO,SEXO,OFICIO,ESTADO_CIVIL) values (@id, @nombre, @apellido, @fecha, @sexo, @oficio, @estadoCivil)";
-            
-            SqlCommand comando = new SqlCommand(cadena, conexion);
-            comando.Parameters.AddWithValue("@id", id);
-            comando.Parameters.AddWithValue("@nombre", nombre);
-            comando.Parameters.AddWithValue("@apellido", apellido);
-            comando.Parameters.AddWithValue("@fecha", fechaNacimiento);
-            comando.Parameters.AddWithValue("@sexo", sexo);
-            comando.Parameters.AddWithValue("@oficio", oficio);
-            comando.Parameters.AddWithValue("@estadoCivil", estadoCivil);
-            
-            conexion.Open();
-            comando.ExecuteNonQuery();
-            conexion.Close();
+            TOPersona persona = new TOPersona(id, nombre, apellido, oficio, estadoCivil, sexo, fechaNacimiento);
+            BLPersona inBL = new BLPersona();
+            inBL.ingresarPersona(persona);
+           
             MessageBox.Show("Los datos se guardaron correctamente");
 
             this.Hide();
             Form1 frm1 = new Form1();
             frm1.Show();
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+            BLPersona bl = new BLPersona();
+            if (Form1.accion.Equals("Consultar"))
+            {
+                TOPersona personaConsultada = bl.consultarPersona(Form1.id_Actual);
+
+                btnIngresar.Visible = false;
+                tituloIngresar.Text = "Consultar Persona";
+                txtId.Text = personaConsultada.id;
+                txtNombre.Text = personaConsultada.nombre;
+                txtApellido.Text = personaConsultada.apellidos;
+                InfechaNacimiento.Value = personaConsultada.fechaNacimiento;
+                comboSexo.SelectedItem = personaConsultada.sexo.Trim();
+                comboCivil.SelectedItem = personaConsultada.estadoCivil;
+                txtOficio.Text = personaConsultada.ocupacion;
+               
+            }
         }
     }
 }

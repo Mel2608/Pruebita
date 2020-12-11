@@ -1,0 +1,11 @@
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\BL2\obj\Debug\BL2.csproj.CoreCompileInputs.cache
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\BL2\bin\Debug\BL2.dll
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\BL2\bin\Debug\BL2.pdb
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\BL2\bin\Debug\DAO2.dll
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\BL2\bin\Debug\TO2.dll
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\BL2\bin\Debug\DAO2.pdb
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\BL2\bin\Debug\TO2.pdb
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\BL2\obj\Debug\BL2.csprojAssemblyReference.cache
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\BL2\obj\Debug\BL2.csproj.CopyComplete
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\BL2\obj\Debug\BL2.dll
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\BL2\obj\Debug\BL2.pdb

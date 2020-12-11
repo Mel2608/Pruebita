@@ -1,0 +1,9 @@
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\TO\bin\Debug\netstandard2.0\TO.deps.json
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\TO\bin\Debug\netstandard2.0\TO.dll
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\TO\bin\Debug\netstandard2.0\TO.pdb
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\TO\obj\Debug\netstandard2.0\TO.csprojAssemblyReference.cache
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\TO\obj\Debug\netstandard2.0\TO.csproj.CoreCompileInputs.cache
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\TO\obj\Debug\netstandard2.0\TO.AssemblyInfoInputs.cache
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\TO\obj\Debug\netstandard2.0\TO.AssemblyInfo.cs
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\TO\obj\Debug\netstandard2.0\TO.dll
+C:\Users\melan\Dropbox\Mi PC (DESKTOP-8O5NSLT)\Documents\GitHub\Pruebita\TO\obj\Debug\netstandard2.0\TO.pdb
